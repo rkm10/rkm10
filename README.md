@@ -63,4 +63,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rkm10&theme=dark&border_radius=10&exclude_days=Sun" height="220" alt="streak graph"  />
 </div>
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rkm10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 ###

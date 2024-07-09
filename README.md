@@ -70,6 +70,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rkm10&show_icons=true&theme=gotham" alt="rajkumar" />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###

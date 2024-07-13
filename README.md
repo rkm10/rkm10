@@ -3,34 +3,8 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/139203912?v=4"  />
 </div>
 <!--Profile views starts -->
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rkm10&label=Hello%20visitors&color=0eb4a9&style=plastic" alt="deviprasadkl" /> </p> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=rkm10&label=Hello%20visitors&color=0eb4a9&style=plastic" alt="RajKumar" /> </p> 
  <!---->
-###
-
-<!-- <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div> -->
-
-###
-
-<!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div> -->
-
-<!-- ###
-
-<h1 align="center">Hey theree 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -135,11 +109,11 @@
 <!-- Git hub activity starts -->
 <details>
 <summary><h2>Github Stats and Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h2></summary>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkm10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="deviprasadkl" height="195px" width="400px" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkm10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="RajKumar" height="195px" width="400px" /></p> 
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkm10&show_icons=true&theme=radical" alt="deviprasadkl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkm10&show_icons=true&theme=radical" alt="RajKumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkm10&theme=soft-green&exclude_days=Sun" alt="deviprasadkl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkm10&theme=soft-green&exclude_days=Sun" alt="RajKumar" /></p>
 </details>
 <!-- Git hub activity starts -->
 

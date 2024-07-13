@@ -74,7 +74,7 @@
 
 <!-- Graph starts -->
 <div align="center">
-  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=deviprasadkl&theme=react-dark&area=true&hide_border=true&hide_title=true">
+  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=rkm10&theme=react-dark&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- Graph ends -->
 

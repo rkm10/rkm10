@@ -72,4 +72,10 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<!-- Graph starts -->
+<div align="center">
+  <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=deviprasadkl&theme=react-dark&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- Graph ends -->
+
 ###

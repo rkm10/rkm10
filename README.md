@@ -112,7 +112,7 @@
 <details>
 <summary><h2>Github Stats and Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"></h2></summary>
 
-<><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkm10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="RajKumar" height="195px" width="400px" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkm10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&layout=compact"  alt="RajKumar" height="195px" width="400px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rkm10&show_icons=true&theme=radical" alt="RajKumar" height="195px" width="400px" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkm10&theme=soft-green&exclude_days=Sun" alt="RajKumar" height="195px" width="400px"  /></p>

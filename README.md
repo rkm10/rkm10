@@ -3,8 +3,10 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/139203912?v=4"  />
 </div>
 
-<h2><a href="https://rajkumarmalluri.vercel.app/" target="_blank">Website</a></h2>
-<!--Profile views starts -->
+<div align="center">
+<h2>No Bio, check my <a href="https://rajkumarmalluri.vercel.app/" target="_blank">Website</a></h2>
+</div>
+  <!--Profile views starts -->
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rkm10&label=Hello%20visitors&color=0eb4a9&style=plastic" alt="RajKumar" /> </p> 
  <!---->
 
